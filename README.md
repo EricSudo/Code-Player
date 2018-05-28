@@ -12,7 +12,7 @@ Learn install
 ScreenShot
 ============
 
-![screenshot](https://github.com/EricSudo/Code-Player/raw/master/img/screenshot.png)  
+![screenshot](https://github.com/EricSudo/Code-Player/raw/master/screenshot.png)  
 
 امکانات
 --------
